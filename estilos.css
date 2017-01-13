@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.bloque{
+    float:left;
+    margin-left:5px;
+    width:20px;
+    height:20px;
+    text-align::center;
+    padding:5px;
+    background:#fff;
+	cursor:pointer;
+	text-align:center;
+ }
